@@ -55,5 +55,5 @@ def upload_file(file_path):
 
 
 if __name__ == "__main__":
-    file_to_upload =r"C:\Users\student\Desktop\sp\cloudinary_learnings\image.png"
+    file_to_upload =r"C:\Users\student\Desktop\sp\cloudinary_learnings\The chassing master in on his duty #cricket #viratkohli #virat.mp4"
     upload_file(file_to_upload)
